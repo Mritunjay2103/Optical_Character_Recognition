@@ -1,0 +1,2 @@
+# Optical_Character_Recognition
+Optical_Character_Recognition using computer vision.
